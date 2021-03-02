@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.mysoon97.mycustomextension.services
 
+import com.github.mysoon97.mycustomextension.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
